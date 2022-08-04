@@ -1,0 +1,45 @@
+species,season,npairs,total_duration_pc900,total_duration_hf2,hf2_dur_as_pct_of_pc900_median,hf2_dur_as_pct_of_pc900_lci,hf2_dur_as_pct_of_pc900_uci
+Black Bear,all,18,2560.1,2722.3,107.2,93.3,127.2
+Black Bear,summer,18,1927.3,2227.4,115.6,104.4,129.7
+Black Bear,winter,2,632.8,494.9,78.2,0,79.5
+Canada Lynx,all,9,462.8,469.6,101.3,77.8,152.9
+Canada Lynx,summer,4,38.5,61.4,159.3,107.5,316.9
+Canada Lynx,winter,7,424.3,408.2,96.5,75,141.2
+Coyote,all,14,1280.8,1651,128.8,110.3,156.7
+Coyote,summer,10,361.3,422.5,117.7,101.3,153.9
+Coyote,winter,12,919.5,1228.5,134.5,111.4,179.1
+Elk (wapiti),all,3,57.2,55.8,97.5,92.4,100
+Elk (wapiti),summer,1,34.9,34.9,100,100,100
+Elk (wapiti),winter,2,22.4,21,93.7,92.4,100
+Fisher,all,4,31.4,152,452.6,31.2,3447.3
+Fisher,summer,3,31.4,19.6,62.4,0,100
+Fisher,winter,1,0,132.4,Inf,Inf,Inf
+Gray Wolf,all,1,100.9,86.5,85.7,85.7,85.7
+Gray Wolf,summer,1,100.9,86.5,85.7,85.7,85.7
+Marten,all,1,16.9,32.9,194.7,194.7,194.7
+Marten,winter,1,16.9,32.9,194.7,194.7,194.7
+Moose,all,17,11940.3,12628.3,105.8,98.7,117.2
+Moose,summer,14,6810.9,6621.4,97.1,84.6,100.2
+Moose,winter,12,5129.4,6006.9,116.8,108.9,158.5
+Mule deer,all,8,12302.8,12811.6,104.1,96.5,114.8
+Mule deer,summer,4,126.7,192.9,148.3,95,194.9
+Mule deer,winter,8,12176.1,12618.6,103.9,95.9,114.6
+Muskrat,all,1,1556,2082.8,133.9,133.9,133.9
+Muskrat,summer,1,1485.6,1932.3,130.1,130.1,130.1
+Muskrat,winter,1,70.3,150.5,214,214,214
+Porcupine,all,4,58.5,48,82,50,342.9
+Porcupine,summer,2,9.3,9.7,103.6,0,207.2
+Porcupine,winter,3,49.2,38.3,77.9,60.6,Inf
+Red fox,all,1,0,7.2,Inf,Inf,Inf
+Red fox,winter,1,0,7.2,Inf,Inf,Inf
+Red Squirrel,all,4,146,197.7,131.9,70.5,375.6
+Red Squirrel,summer,1,83.1,36.5,44,44,44
+Red Squirrel,winter,4,62.9,161.2,257.2,105.2,517.1
+Snowshoe Hare,all,16,NA,9287.9,132.1,100,152.5
+Snowshoe Hare,summer,8,898.5,963.8,110.5,76.7,391.8
+Snowshoe Hare,winter,15,NA,8324.1,133.7,100.9,149.9
+White-tailed Deer,all,18,19743.9,20054.7,101.7,93.2,113.6
+White-tailed Deer,summer,17,7623.6,7609.5,100.3,89,117.4
+White-tailed Deer,winter,14,12120.3,12445.2,103.2,94,117.5
+Woodland Caribou,all,1,844.4,677.1,80.2,80.2,80.2
+Woodland Caribou,summer,1,844.4,677.1,80.2,80.2,80.2
